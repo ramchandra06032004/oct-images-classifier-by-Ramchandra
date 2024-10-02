@@ -229,7 +229,7 @@ footer {
 }
 </style>
 <div class="main-footer">
-    <p>Developed by Neural Navigators | &copy; 2024 All Rights Reserved</p>
+    <p>Made by Ramchandra Mulik | &copy; 2024 All Rights Reserved</p>
 </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
